@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAGAA,MAAM","sources":["webpack://boilerplate-webpack/./src/index.js"],"sourcesContent":["// 1\n// 2\n// 3\nalert('Hello, world!')\n"],"names":["alert"],"sourceRoot":""}
