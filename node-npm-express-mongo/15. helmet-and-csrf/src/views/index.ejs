@@ -1,14 +1,9 @@
 <%- include('./includes/head') %>
 
     <section class="container">
-        <h1>
-            <% if(typeof titulo !=='undefined' ) { %>
-                <%= titulo %>
-                    <% } else { %>
-                        Titulo não definido
-                        <% } %>
-        </h1>
+        <h1> ESTE É O FORMULÁRIO </h1>
         <form action="/" method="post">
+            <input type="hidden" name="_csrf" value="<%= csrfToken %>">
             <label>Cliente</label>
             <input type="text" name="cliente">
             <button>Submit</button>
