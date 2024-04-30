@@ -1,14 +1,14 @@
-# JavaScript Study Repository
+# JavaScript Learning Repository
 
 Here, I've organized my learnings into different topics related to JavaScript development.
 
 ## Table of Contents
 
 1. **Objects and Prototypes**
-   .1 Understanding objects
-   .2 Working with define properties
-   - Getters and setters
-   - Useful methods for objects
+   1.1 Understanding objects
+   1.2 Working with define properties
+   1.3 Getters and setters
+    Useful methods for objects
    - Manipulating prototypes
    - Inheritance and polymorphism
    - Factory functions and prototypes
